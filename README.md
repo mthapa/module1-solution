@@ -1,0 +1,1 @@
+This is solution to the module 1 of AngularJS course
